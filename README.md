@@ -2,7 +2,7 @@
 
 Zen Chatbot is a simple chatbot implementation in HTML, CSS, and JavaScript that provides answers to basic questions and engages in conversation based on predefined logic. The chatbot features a serene and minimalist design, creating a calm and engaging user experience.
 
-<img width="625" alt="Screenshot 2023-07-12 at 11 52 46 AM" src="https://github.com/shuddha2021/Zen-Chatbot/assets/81951239/c701b02e-29de-411d-a2ca-ee226f29fa79">
+<img width="618" alt="Screenshot 2023-07-12 at 11 58 16 AM" src="https://github.com/shuddha2021/Zen-Chatbot/assets/81951239/874a6ea7-df95-4f5f-ab60-5b50c4e1b2ad">
 
 
 ## Features
